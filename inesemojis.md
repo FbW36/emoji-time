@@ -1,4 +1,4 @@
-#Conditions for a good emoji:
+# Conditions for a good emoji:
 * Random
 * Ironic
 * Sweet
