@@ -24,4 +24,4 @@
 * The tick one is a go to!
 * I would suggest you **git** them all
 
-> git is a classic pun to be used amoung programmers, be careful in the company of
+> git is a classic pun to be used amoung programmers, be careful in the company of people who don't know git, they don't *git* it
